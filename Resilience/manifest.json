@@ -69,9 +69,9 @@
       "integrations": ["IBM", "Common"]
     },
     {
-      "name": "Java Application Resilience Discovery",
-      "path": "Java_Application_Resilience_Discovery_v2.2.zip",
-      "description": "This workflow is for Automatic Discovery of Spring Boot applications on a target VM.",
+      "name": "Discovering Java applications on a VM",
+      "path": "Java_Application_Discovery_v2.2.zip",
+      "description": "The auto-discovery workflow identifies applications along with its associated Java components running on Linux® servers, focusing on Spring Boot, Apache Tomcats (using JMX) or any JAVA application using JDK.",
       "integrations": ["IBM", "Common"]
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "name": "Prometheus NFR Resilience",
-      "path": "Prometheus_NFR_Workflow_v2.2.zip",
+      "path": "Prometheus_NFR_Resilience_v2.2.zip",
       "description": "This workflow collects metrics from Prometheus and generates resilience assessments.",
       "integrations": ["Prometheus", "IBM"]
     },
