@@ -33,6 +33,12 @@
       "integrations": ["Kubernetes", "OpenShift", "IBM", "Common"]
     },
     {
+      "name": "HashiCorp VaultCertificate Discovery and Rotation",
+      "path": "HashiCorp_VaultCertificate_DiscoveryAndRotation_v2.2.zip",
+      "description": "Discovers HashiCorp Vault certificates and performs rotation when certificates are close to expiry.",
+      "integrations": ["HashiCorp", "IBM", "Common"]
+    },
+    {
       "name": "IBM DataPower Certificates DiscoveryandRotation",
       "path": "IBM_DataPower_Certificates_DiscoveryandRotation.zip",
       "description": "Discovers certificates deployed on IBM DataPower gateways and performs rotation when certificates are close to expiry.",
