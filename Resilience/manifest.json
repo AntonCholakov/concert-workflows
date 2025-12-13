@@ -15,9 +15,9 @@
       "integrations": ["AWS", "Common"]
     },
     {
-      "name": "AWS ECS resilience",
+      "name": "Discovering applications on a ECS",
       "path": "AWS_ECS_resilience_v2.2.zip",
-      "description": "This workflow is to extract applications and its relevant metrics from ECS instance through cloudwatch agent.",
+      "description": "Concert can access to your Amazon Elastic Container Service (ECS) environment to collect cluster, service, task, and container-level metadata and metrics to access the resilience of your applications.",
       "integrations": ["AWS", "IBM", "Common"]
     },
     {
