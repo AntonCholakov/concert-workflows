@@ -88,7 +88,7 @@
     },
     {
       "name": "Package Vulnerability Exposure Assessment",
-      "path": "Package_Vulnerability_Exposure_Assessment_v2.2.zip",
+      "path": "Package_Vulnerability_Exposure_Assessment_V2.2.zip",
       "description": "Pull aggregated metrics for Packages, vulnerabilities and Exposures for the given application and Load the Assessment data to IBM Concert for all the profiles associated with that application.",
       "integrations": ["IBM", "Common"]
     },
